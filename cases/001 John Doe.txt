@@ -1,0 +1,9 @@
+---
+id: "C-001"
+title: "John Doe"
+date: "07/27/2024"
+documentedBy:
+  - "Thesandmannn": "/members/member/thesandmannn"
+---
+
+Case example. This is not an official case.
