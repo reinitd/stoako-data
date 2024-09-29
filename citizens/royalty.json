@@ -2,8 +2,11 @@
   "citizens": [
     {
       "name": "3r5x4",
-      "role": "King of Çtoq",
-      "joinDate": "REDACTED"
+      "roles": [
+        {"role": "King", "of": "Stoako"},
+        {"role": "Citizen", "of": "Crownswyck"}
+      ],
+      "joinDate": "Jan. 30th, Y6"
     }
   ]
 }

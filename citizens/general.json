@@ -2,7 +2,9 @@
   "citizens": [
     {
       "name": "placeholder",
-      "role": "placeholder",
+      "roles": [
+        {"role": "Citizen", "of": "Stoako"}
+      ],
       "joinDate": "placeholder"
     }
   ]
