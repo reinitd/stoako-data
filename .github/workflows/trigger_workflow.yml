@@ -7,6 +7,9 @@ jobs:
   deploy:
     runs-on: ubuntu-latest
     steps:
+    - name: Delay for 30 seconds
+      run: sleep 30
+
     - uses: actions/github-script@v6
       with:
         github-token: ${{ secrets.PERSONAL_TOKEN }}
